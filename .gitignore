@@ -19,6 +19,10 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 
+# Generated files
+generated-pdfs/
+pdf_pages/
+
 # IDE
 .vscode/
 .idea/
